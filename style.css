@@ -1,0 +1,10 @@
+.jumbotron {
+  background-image: url(img/a.jpg);
+  position: relative;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.jumbotron {
+  height: 50em;
+  color: white;
+}
