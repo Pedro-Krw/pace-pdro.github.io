@@ -1,10 +1,24 @@
-.jumbotron {
-  background-image: url(img/a.jpg);
-  position: relative;
-  background-attachment: fixed;
-  background-size: cover;
-}
-.jumbotron {
-  height: 50em;
+body {
+  background-color: black;
   color: white;
+}
+
+.judul {
+  margin: 0px auto;
+  font-style: italic;
+  filter: drop-shadow(5px 5px 3px blue);
+}
+.navbar {
+  background-color: black;
+}
+
+.card {
+  background-color: rgb(32, 27, 27);
+}
+
+.ku {
+  transition: 0.3s;
+}
+.ku:hover {
+  filter: drop-shadow(6px 6px 3px rgb(0, 132, 255));
 }
