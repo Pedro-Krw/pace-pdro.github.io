@@ -1,15 +1,10 @@
-body {
-  background-color: black;
-  color: white;
-}
-
 .judul {
   margin: 0px auto;
   font-style: italic;
   filter: drop-shadow(5px 5px 3px blue);
 }
 .navbar {
-  background-color: black;
+  background-color: cadetblue;
 }
 
 .card {
@@ -21,4 +16,8 @@ body {
 }
 .ku:hover {
   filter: drop-shadow(6px 6px 3px rgb(0, 132, 255));
+}
+.dark {
+  background-color: black;
+  color: white;
 }
