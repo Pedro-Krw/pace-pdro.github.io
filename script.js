@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Sticky Navigation Menu JS Code
 let nav = document.querySelector("nav");
 let scrollBtn = document.querySelector(".scroll-button a");
@@ -44,9 +43,3 @@ for (var i = 0; i < navLinks.length; i++) {
     menuBtn.style.pointerEvents = "auto";
   });
 }
-=======
-const ganti = document.getElementById("ganti");
-ganti.addEventListener("click", function () {
-  document.body.classList.toggle("dark");
-});
->>>>>>> 3166e0087357f48a12481a345f09c637e0672a07
