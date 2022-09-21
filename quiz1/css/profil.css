@@ -1,5 +1,10 @@
 /* Google Font CDN Link */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap");
+
+html {
+  background: #f0f8ff;
+  height: 100%;
+}
 * {
   margin: 0;
   padding: 0;
@@ -179,6 +184,7 @@ section .content {
 }
 .about .about-details {
   display: flex;
+  background: #f0f8ff;
   justify-content: space-between;
   align-items: center;
 }
