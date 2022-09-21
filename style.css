@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Google Font CDN Link */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap");
 * {
@@ -507,4 +508,28 @@ footer .text span a:hover {
     font-size: 50px;
     color: #4070f4;
   }
+=======
+.judul {
+  margin: 0px auto;
+  font-style: italic;
+  filter: drop-shadow(5px 5px 3px blue);
+}
+.navbar {
+  background-color: cadetblue;
+}
+
+.card {
+  background-color: rgb(32, 27, 27);
+}
+
+.ku {
+  transition: 0.3s;
+}
+.ku:hover {
+  filter: drop-shadow(6px 6px 3px rgb(0, 132, 255));
+}
+.dark {
+  background-color: black;
+  color: white;
+>>>>>>> 3166e0087357f48a12481a345f09c637e0672a07
 }
