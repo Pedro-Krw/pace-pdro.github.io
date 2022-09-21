@@ -7,6 +7,10 @@
   text-decoration: none;
   scroll-behavior: smooth;
 }
+html{
+  background-color: #f0f8ff;
+}
+
 
 /* Custom Scroll Bar CSS */
 ::-webkit-scrollbar {
@@ -272,6 +276,7 @@ section .button button:hover {
   color: #0e2431;
   text-align: justify;
 }
+
 .skills .skills-details .experience {
   display: flex;
   align-items: center;
