@@ -11,6 +11,12 @@ html{
   background-color: #f0f8ff;
 }
 
+box .papeda{
+  background-image: url(/img/papeda.jpg);
+  width: 20px;
+  height: 20px;
+}
+
 
 /* Custom Scroll Bar CSS */
 ::-webkit-scrollbar {
@@ -436,7 +442,7 @@ footer .text span a:hover {
   }
 }
 
-@media (max-width: 750px) {
+@media (max-width: 70px) {
   nav .navbar {
     width: 90%;
   }
