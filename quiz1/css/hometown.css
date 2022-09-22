@@ -7,6 +7,10 @@
   text-decoration: none;
   scroll-behavior: smooth;
 }
+html {
+  background: #f0f8ff;
+  height: 100%;
+}
 
 /* Custom Scroll Bar CSS */
 ::-webkit-scrollbar {
@@ -257,6 +261,13 @@ section .button button:hover {
 .skills {
   background: #f0f8ff;
 }
+.card{
+  height: 300px;
+  width: 500px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 .skills .content {
   padding: 100px 0;
 }
